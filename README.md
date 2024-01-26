@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cadar Achim Mircea</h1>
 <h3 align="center">A passionate frontend developer, working to be a full stack developer.</h3>
 
-- 🌱 I’m currently learning **GO(Golang)and Python**
+- 🌱 I’m currently learning **GO(Golang) and Python**
 
 - 📫 How to reach me **cadarachimmircea@gmail.com**
 
